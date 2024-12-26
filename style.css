@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+
+  height: 60vh;
+  background-color: #f2f2f2;
+  vertical-align: top;
+  position: absolute;
+  padding-left: 70px;
+  width: 100%;
+}
+
+.item{
+  display: inline-block;
+  vertical-align: top;
+  
+}
+
+.item1{
+  height: 320px;
+  width: 380px;
+  position: relative;
+  margin-left: 3%;
+  margin-top: 45px;
+  background-color: #CE1212;
+  color: white;
+  text-align: center;
+  padding-top:30px;
+  text-decoration: none;
+}
+
+
+.item2{
+  height: 320px;
+  width: 240px;
+  position: relative;
+  padding-top: 50;
+  margin-top: 3%;
+  margin-left: 3%;
+  background-color: white;
+}
+
+.item3{
+  height: 320px;
+  width: 240px;
+  position: relative;
+  padding-top: 50;
+  margin-top: 3%;
+  margin-left: 3%;
+  background-color: white;
+}
+
+.item4{
+  height: 320px;
+  width: 240px;
+  position: relative;
+  padding-top: 50;
+  margin-top: 3%;
+  margin-left: 3%;
+  background-color: white;
+}
+
+a{
+  color:white;
+  
+  border-radius: #F7F2F251;
+ background-color: transparent;
+}
+
+i{
+  position: absolute;
+  bottom: 60%;
+  font-size: 35px;
+  border: 2px solid none;
+  width: 35%;
+  height: 28%;
+  border-radius: 50% ;
+  padding-top: 25px;
+  left: 85px;
+  color: #CE1212;
+  background-color: #f2f2f2;
+}
+
+i:hover{
+  background-color:#CE1212;
+  color: white;
+}
+
+.text{
+  text-align: center;
+  font-size: 22px;
+  width: 230px;
+  padding-top: 100px;
+  font-weight: 300;
+}
+ .para1{
+  text-align:center;
+  font-size: 16px;
+  font-weight: 50;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+ }
+ .text1{
+  text-align: center;
+  font-size: 22px;
+  width: 230px;
+  padding-top: 150px;
+  font-weight: 300;
+}
+.para2{
+  text-align:center;
+  font-size: 16px;
+  font-weight: 50;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.text2{
+  text-align: center;
+  font-size: 22px;
+  width: 230px;
+  padding-top: 150px;
+  font-weight: 300;
+}
+.para3{
+  text-align:center;
+  font-size: 16px;
+  font-weight: 50;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.para{
+  text-align:center;
+  font-size: 16px;
+  font-weight: 50;
+  padding-left: 20px;
+  padding-right: 20px
+
+}
+
+.hi{
+
+  
+  width: 150px;
+  position: absolute;
+  left: 30%;
+  height: 40px;
+  padding-bottom: 30px;
+  border-radius:20px;
+  background-color: #F7F2F251;
+  position: relative;
+  padding-top: 7px;
+
+}
+a{
+  text-decoration: none;
+  font-size: 18px;
+  
+}
+
+.hi:hover{
+
+  background-color: white;
+  color: red;
+
+}
+a:hover{
+  color: #CE1212;
+  background-color: white;
+}
+
